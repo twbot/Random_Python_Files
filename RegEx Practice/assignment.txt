@@ -1,0 +1,3 @@
+Write a class to represent a person based on the information in the text file. They should have names, email addresses, phone numbers, jobs, and Twitter accounts. Remember, some of these can be blank, though!
+
+To go ever further, make a class to act as as address book to hold all of the people class instances created above. Can you make it searchable?
